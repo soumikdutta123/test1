@@ -1,4 +1,4 @@
-﻿"Time","Unix Time","Entry","Exit","No. of people remained","No. of people Entered","No. of People Left"
+﻿"Time","Unix Time","Entry","Exit","No_of_people_remained","No_of_people_Entered","No_of_People_Left"
 "10/25/17 8:59 AM","1508921940","0","0","0","0","0"
 "10/25/17 9:00 AM","1508922000","0","0","0","0","0"
 "10/25/17 9:01 AM","1508922060","3","0","3","3","0"
